@@ -1,0 +1,29 @@
+{
+  "name": "hachiware_server_module_proxy",
+  "version": "1.0.0",
+  "description": "proxy module.",
+  "main": "index.js",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masatonakatsuji2021/hachiware_server_module_proxy.git"
+  },
+  "keywords": [
+    "hachiware",
+    "hachiware_server",
+    "module",
+    "proxy"
+  ],
+  "author": "Nakatsuji Masato",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masatonakatsuji2021/hachiware_server_module_proxy/issues"
+  },
+  "homepage": "https://github.com/masatonakatsuji2021/hachiware_server_module_proxy#readme"
+}
