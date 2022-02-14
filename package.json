@@ -1,6 +1,6 @@
 {
   "name": "hachiware_server_module_proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "proxy module.",
   "main": "index.js",
   "dependencies": {
